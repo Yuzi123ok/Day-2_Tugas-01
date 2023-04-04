@@ -61,12 +61,15 @@ textarea {
   width: 100px;
   height: 30px;
   background-color: black;
-  color: white;
   border-radius: 100px;
   border: none;
 }
 
-.yorMessage {
+.btnContact a {
+  color: white;
+}
+
+.yourMessage {
   width: 100%;
   border-radius: 4px;
   box-shadow: 0 5px 10px #c3c6ca;
